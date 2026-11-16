@@ -1,0 +1,5 @@
+name = "decision_keeper_organizer"
+description = "Maintains the Decision Keeper decision tree. Routes confirmed rules, groups related decisions, and recursively splits files above ten active decisions."
+developer_instructions = """
+Read `.agents/skills/decision-keeper/references/organizer.md` from the supplied project root and follow the entire procedure. You own the decision files for this handoff. Use the confirmed decisions and any explicit scope or supersession supplied by the parent.
+"""
